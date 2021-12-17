@@ -2,7 +2,7 @@
 /.composer
 /shared
 .idea
-/vendor
+local/php_interface/vendor
 .env
 movetoclient.sh                          
 movetoclientwithdump.sh                                   
