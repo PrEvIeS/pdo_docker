@@ -4,10 +4,6 @@
 .idea
 /vendor
 .env
-docker/data/*/*
-docker/logs/*/*
-/web/_test/
-/web/test/
 movetoclient.sh                          
 movetoclientwithdump.sh                                   
 makemysqldump.sh
@@ -17,4 +13,11 @@ upload.tar.bz2
 project.gitlab-ci.yml
 .php_cs.cache
 composer.lock
-/docker_start/_test/
+bitrix/cache/*
+bitrix/managed_cache/*
+bitrix/*.log
+bitrix/backup/*
+bitrix/catalog_export/*
+bitrix/stack_cache/*
+bitrix/tmp/*
+bitrix/updates/*
