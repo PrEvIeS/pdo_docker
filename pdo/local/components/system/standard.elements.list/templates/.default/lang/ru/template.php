@@ -1,3 +1,0 @@
-<?php
-$MESS['STANDARD_ELEMENTS_LIST_TEMPLATE_TITLE'] = 'Новости';
-?>

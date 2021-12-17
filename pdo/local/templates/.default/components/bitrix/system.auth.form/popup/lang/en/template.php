@@ -1,6 +1,0 @@
-<?php
-$MESS['AUTH_FORM_TITLE'] = 'Log in';
-$MESS['AUTH_FORM_LOGIN_CAPTION'] = 'Login';
-$MESS['AUTH_FORM_PASSWORD_CAPTION'] = 'Password';
-$MESS['AUTH_FORM_SUBMIT_CAPTION'] = 'Log in';
-$MESS['AUTH_FORM_FORGOT_PASSWORD'] = 'Forgot password?';
