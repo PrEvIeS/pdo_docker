@@ -4,6 +4,7 @@
 .idea
 /vendor
 .env
+.git
 docker/data/*/*
 docker/logs/*/*
 /web/_test/
